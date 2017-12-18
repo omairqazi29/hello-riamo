@@ -1,6 +1,6 @@
 {
   "name": "hello-riamo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": " A simple Node.js module that prints Hello World! ",
   "main": "index.js",
   "scripts": {
