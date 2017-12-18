@@ -12,7 +12,7 @@ npm install hello-riamo --save
 
 ```javascript
 var hello=require('hello-riamo')
-var hw=hello.func()
+hello.func()
 ```
 ```sh
 Output should be 'Hello World!'
