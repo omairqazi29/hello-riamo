@@ -6,6 +6,8 @@ A simple Node.js module that prints Hello World!
 npm install hello-riamo --save
 ```
 
+<noscript><a href="https://liberapay.com/omairqazi/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+
 ## Usage
 
 ### Javascript
